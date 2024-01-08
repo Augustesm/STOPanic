@@ -6,6 +6,7 @@ STOPanic provides two soothing exercises – calming music and breath meditation
 Connecting with others is made simple with the ability to search for friends and share pictures. STOPanic is not just an app; it's a supportive community, embracing technology to foster well-being and resilience. Take control of your journey with STOPanic.
 
 ![start](https://github.com/Augustesm/STOPanic/assets/25414343/43bd2b1c-e7af-4e7e-ace9-e1741c3d387c)
+![slash screen](https://github.com/Augustesm/STOPanic/assets/25414343/3db0455e-6003-4c15-81b2-c8391f94ba4a)
 ![Sign in](https://github.com/Augustesm/STOPanic/assets/25414343/baf79f9d-1322-4a2e-80fa-fd448fb96e8a)
 ![registration](https://github.com/Augustesm/STOPanic/assets/25414343/3295031f-9608-446f-82de-c4fc496ffaf0)
 ![Main](https://github.com/Augustesm/STOPanic/assets/25414343/eba0f67c-ba10-4b97-bedb-1f4bd8006972)
@@ -21,5 +22,3 @@ Connecting with others is made simple with the ability to search for friends and
 ![Friends](https://github.com/Augustesm/STOPanic/assets/25414343/c0c1cfc1-7497-48a9-b5ca-174a84b31c3f)
 ![Friends search](https://github.com/Augustesm/STOPanic/assets/25414343/52bd2955-ae9b-4bc6-8be6-8582e0fa56e3)
 ![Photo](https://github.com/Augustesm/STOPanic/assets/25414343/ec07e62d-8e31-45e2-bef1-2b32f68a908b)
-![slash screen](https://github.com/Augustesm/STOPanic/assets/25414343/3db0455e-6003-4c15-81b2-c8391f94ba4a)
-
